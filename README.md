@@ -1,2 +1,2 @@
-# C-class-program
+# C++ class-program
 Basic C++ programming HW
