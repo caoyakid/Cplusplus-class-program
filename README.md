@@ -9,3 +9,4 @@ content:
 4.Classes and Objects  
 5.Arrays
 6.Algorithms
+7.Pointers
